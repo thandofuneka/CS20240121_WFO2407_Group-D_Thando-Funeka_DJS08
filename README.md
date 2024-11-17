@@ -1,6 +1,24 @@
 # DJS08 Project Brief: React Router 
 
-🎥 INSERT LOOM PRESENTATION LINK: [Here]
+My apologies I can't make the video presentation, due to bad internet connection where I am and I don't have a webcam as I am not using my personal computer as I am at a family gathering. I will try typing the presentation points below.
+
+Question 1: Explain the Setup and Basic Configuration of React Router
+
+- Makes your website feel faster and smoother
+- It allows you to navigate between different parts of your website without reloading the page.
+
+Question 2: Route Parameters and Nested Routes
+
+- They are variables in the URL
+- Nested Routes are Routes inside other routes, it helps to organize related pages together
+
+Question 3: Navigation
+
+- Links they work similar to an <a> tag but they dont refresh the whole page
+- NavLinks are similar to Links but they can be styled based on the URL
+- Search Parameters are used to filter data/ categories of the content 
+- useSearchParams is used to access the search parameters
+
 
 After cloning the repo, run `npm install` to install the dependencies 
 
